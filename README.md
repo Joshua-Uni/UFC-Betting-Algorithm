@@ -2,7 +2,7 @@
 This project aims to predict the outcome of UFC fights using machine learning techniques. The data used in this project was obtained from a publicly available repository, which was then cleaned and preprocessed to prepare it for analysis. The cleaned dataset was split into training, validation, and test sets to train and evaluate various machine learning models.
 
 # Dataset
-The initial dataset used in this project was sourced from an external GitHub repository. It contains information about UFC fights, including fighter statistics, fight details, and fight outcomes. The dataset was cleaned by removing irrelevant columns, handling missing values, and encoding categorical variables appropriately. Additionally, feature engineering techniques were applied to derive meaningful features that could potentially improve model performance.
+The initial dataset used in this project was sourced from an external GitHub repository. It contains information about UFC fights, including fighter statistics, fight details, and fight outcomes. The dataset was cleaned by removing irrelevant columns and encoding categorical variables appropriately. Additionally, feature engineering techniques were applied to derive meaningful features that could potentially improve model performance.
 
 # Machine Learning Models
 To predict the outcomes of UFC fights, this project explores several machine learning models available in the scikit-learn (SKlearn) library. The models considered include random forest, logistic regression, and K-nearest neighbors (KNN). These models were trained on the training set and evaluated on the validation set to assess their performance.
